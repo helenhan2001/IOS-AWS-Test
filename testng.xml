@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!--  <?xml version="1.0" encoding="UTF-8"?> -->
+<suite name="Android automation test" verbose="1" >
+  <test name="Regression suite 1" >
+  
+    
+    <classes>
+        <class name="Tests.TestMyLibraryPage"/>
+        
+          <class name="Tests.TestHomeScreen"/>
+              <class name="Tests.TestTimerPage"/>
+        
+        
+        
+    
+    </classes> 
+ <!--   
+    <packages>
+     <package name ="Tests"/>
+    </packages>
+    <class name="Tests.TestGuestModePage"/>
+      <class name="Tests.TestGuestModeLibrary"/>
+      <class name="Tests.TestMyLibraryPage"/>
+      <class name="Tests.TestLibrarySearchFilterSortPage"/>
+      <class name="Tests.TestDiscoveryInterestGroups"/>
+       -->
+ </test>
+</suite>

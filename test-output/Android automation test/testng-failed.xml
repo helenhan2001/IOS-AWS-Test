@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Android automation test]">
+  <test name="Regression suite 1">
+    <classes>
+      <class name="Tests.TestMyLibraryPage"/>
+      <class name="Tests.TestHomeScreen"/>
+      <class name="Tests.TestTimerPage"/>
+    </classes>
+  </test> <!-- Regression suite 1 -->
+</suite> <!-- Failed suite [Android automation test] -->

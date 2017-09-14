@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="18" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1257191" started-at="2017-09-12T07:11:26Z" finished-at="2017-09-12T07:32:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1257191" started-at="2017-09-12T07:11:26Z" finished-at="2017-09-12T07:32:24Z">
+      <class name="Tests.TestMyLibraryPage">
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="BeforeTestMethod" is-config="true" duration-ms="30896" started-at="2017-09-12T17:29:10Z" finished-at="2017-09-12T17:29:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="navigateTo" is-config="true" duration-ms="0" started-at="2017-09-12T17:29:10Z" finished-at="2017-09-12T17:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+        <test-method status="PASS" signature="testMyLibraryTeachers()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="testMyLibraryTeachers" duration-ms="25464" started-at="2017-09-12T17:29:41Z" finished-at="2017-09-12T17:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMyLibraryTeachers -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:30:06Z" finished-at="2017-09-12T17:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="BeforeTestMethod" is-config="true" duration-ms="30109" started-at="2017-09-12T17:30:06Z" finished-at="2017-09-12T17:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testMyLibraryInterest()[pri:1, instance:Tests.TestMyLibraryPage@2b2948e2]" name="testMyLibraryInterest" duration-ms="13398" started-at="2017-09-12T17:30:36Z" finished-at="2017-09-12T17:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMyLibraryInterest -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:30:50Z" finished-at="2017-09-12T17:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="BeforeTestMethod" is-config="true" duration-ms="30185" started-at="2017-09-12T17:30:50Z" finished-at="2017-09-12T17:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testMyBookmarks()[pri:2, instance:Tests.TestMyLibraryPage@2b2948e2]" name="testMyBookmarks" duration-ms="9585" started-at="2017-09-12T17:31:20Z" finished-at="2017-09-12T17:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMyBookmarks -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:31:30Z" finished-at="2017-09-12T17:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="BeforeTestMethod" is-config="true" duration-ms="30011" started-at="2017-09-12T17:31:30Z" finished-at="2017-09-12T17:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testTeacherFollow()[pri:3, instance:Tests.TestMyLibraryPage@2b2948e2]" name="testTeacherFollow" duration-ms="24067" started-at="2017-09-12T17:32:00Z" finished-at="2017-09-12T17:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTeacherFollow -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="AfterTestMethod" is-config="true" duration-ms="1" started-at="2017-09-12T17:32:24Z" finished-at="2017-09-12T17:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="restartApp()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="restartApp" is-config="true" duration-ms="0" started-at="2017-09-12T17:32:24Z" finished-at="2017-09-12T17:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartApp -->
+      </class> <!-- Tests.TestMyLibraryPage -->
+      <class name="Tests.TestSecondLanguage">
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestSecondLanguage@335eadca]" name="BeforeTestMethod" is-config="true" duration-ms="31065" started-at="2017-09-12T17:12:13Z" finished-at="2017-09-12T17:12:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:Tests.TestSecondLanguage@335eadca]" name="navigateTo" is-config="true" duration-ms="0" started-at="2017-09-12T17:12:13Z" finished-at="2017-09-12T17:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+        <test-method status="PASS" signature="testSecondLanguageDeutsch()[pri:0, instance:Tests.TestSecondLanguage@335eadca]" name="testSecondLanguageDeutsch" duration-ms="68604" started-at="2017-09-12T17:12:44Z" finished-at="2017-09-12T17:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSecondLanguageDeutsch -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestSecondLanguage@335eadca]" name="AfterTestMethod" is-config="true" duration-ms="1" started-at="2017-09-12T17:13:53Z" finished-at="2017-09-12T17:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="restartApp()[pri:0, instance:Tests.TestSecondLanguage@335eadca]" name="restartApp" is-config="true" duration-ms="0" started-at="2017-09-12T17:13:53Z" finished-at="2017-09-12T17:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartApp -->
+      </class> <!-- Tests.TestSecondLanguage -->
+      <class name="Tests.TestTimerPage">
+        <test-method status="PASS" signature="setUpAppium()[pri:0, instance:Tests.TestTimerPage@67784306]" name="setUpAppium" is-config="true" duration-ms="21388" started-at="2017-09-12T17:11:05Z" finished-at="2017-09-12T17:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAppium -->
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:Tests.TestTimerPage@67784306]" name="navigateTo" is-config="true" duration-ms="0" started-at="2017-09-12T17:11:27Z" finished-at="2017-09-12T17:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestTimerPage@67784306]" name="BeforeTestMethod" is-config="true" duration-ms="11095" started-at="2017-09-12T17:11:27Z" finished-at="2017-09-12T17:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testTimer()[pri:0, instance:Tests.TestTimerPage@67784306]" name="testTimer" duration-ms="35331" started-at="2017-09-12T17:11:38Z" finished-at="2017-09-12T17:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTimer -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestTimerPage@67784306]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:12:13Z" finished-at="2017-09-12T17:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="restartApp()[pri:0, instance:Tests.TestTimerPage@67784306]" name="restartApp" is-config="true" duration-ms="0" started-at="2017-09-12T17:12:13Z" finished-at="2017-09-12T17:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartApp -->
+        <test-method status="PASS" signature="tearDownAppium()[pri:0, instance:Tests.TestTimerPage@67784306]" name="tearDownAppium" is-config="true" duration-ms="0" started-at="2017-09-12T17:32:29Z" finished-at="2017-09-12T17:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAppium -->
+      </class> <!-- Tests.TestTimerPage -->
+      <class name="Tests.TestHomeScreen">
+        <test-method status="PASS" signature="setUpPage()[pri:0, instance:Tests.TestHomeScreen@210366b4]" name="setUpPage" is-config="true" duration-ms="323" started-at="2017-09-12T17:11:26Z" finished-at="2017-09-12T17:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method status="PASS" signature="setUpPage()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="setUpPage" is-config="true" duration-ms="103" started-at="2017-09-12T17:11:27Z" finished-at="2017-09-12T17:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method status="PASS" signature="setUpPage()[pri:0, instance:Tests.TestMyLibraryPage@2b2948e2]" name="setUpPage" is-config="true" duration-ms="14" started-at="2017-09-12T17:11:27Z" finished-at="2017-09-12T17:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method status="PASS" signature="setUpPage()[pri:0, instance:Tests.TestSecondLanguage@335eadca]" name="setUpPage" is-config="true" duration-ms="33" started-at="2017-09-12T17:11:27Z" finished-at="2017-09-12T17:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method status="PASS" signature="setUpPage()[pri:0, instance:Tests.TestTimerPage@67784306]" name="setUpPage" is-config="true" duration-ms="20" started-at="2017-09-12T17:11:27Z" finished-at="2017-09-12T17:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:Tests.TestHomeScreen@210366b4]" name="navigateTo" is-config="true" duration-ms="0" started-at="2017-09-12T17:13:53Z" finished-at="2017-09-12T17:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestHomeScreen@210366b4]" name="BeforeTestMethod" is-config="true" duration-ms="30408" started-at="2017-09-12T17:13:53Z" finished-at="2017-09-12T17:14:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testHomePageFeeds()[pri:0, instance:Tests.TestHomeScreen@210366b4]" name="testHomePageFeeds" duration-ms="92080" started-at="2017-09-12T17:14:23Z" finished-at="2017-09-12T17:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageFeeds -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestHomeScreen@210366b4]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:15:56Z" finished-at="2017-09-12T17:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestHomeScreen@210366b4]" name="BeforeTestMethod" is-config="true" duration-ms="33828" started-at="2017-09-12T17:15:56Z" finished-at="2017-09-12T17:16:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testSeeMoreNearBy()[pri:2, instance:Tests.TestHomeScreen@210366b4]" name="testSeeMoreNearBy" duration-ms="48368" started-at="2017-09-12T17:16:29Z" finished-at="2017-09-12T17:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeeMoreNearBy -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestHomeScreen@210366b4]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:17:18Z" finished-at="2017-09-12T17:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="restartApp()[pri:0, instance:Tests.TestHomeScreen@210366b4]" name="restartApp" is-config="true" duration-ms="0" started-at="2017-09-12T17:17:18Z" finished-at="2017-09-12T17:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartApp -->
+      </class> <!-- Tests.TestHomeScreen -->
+      <class name="Tests.TestLibrarySearchFilterSortPage">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="navigateTo" is-config="true" duration-ms="1" started-at="2017-09-12T17:17:18Z" finished-at="2017-09-12T17:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="BeforeTestMethod" is-config="true" duration-ms="30573" started-at="2017-09-12T17:17:18Z" finished-at="2017-09-12T17:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testFilterSortingFiveMins()[pri:1, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="testFilterSortingFiveMins" duration-ms="64689" started-at="2017-09-12T17:17:48Z" finished-at="2017-09-12T17:18:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterSortingFiveMins -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:18:53Z" finished-at="2017-09-12T17:18:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="BeforeTestMethod" is-config="true" duration-ms="30088" started-at="2017-09-12T17:18:53Z" finished-at="2017-09-12T17:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testFilterSortingTenMins()[pri:2, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="testFilterSortingTenMins" duration-ms="45879" started-at="2017-09-12T17:19:23Z" finished-at="2017-09-12T17:20:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterSortingTenMins -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="BeforeTestMethod" is-config="true" duration-ms="30546" started-at="2017-09-12T17:20:09Z" finished-at="2017-09-12T17:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:20:09Z" finished-at="2017-09-12T17:20:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="testFilterSortingFifteenMins()[pri:3, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="testFilterSortingFifteenMins" duration-ms="32947" started-at="2017-09-12T17:20:40Z" finished-at="2017-09-12T17:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterSortingFifteenMins -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:21:12Z" finished-at="2017-09-12T17:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="BeforeTestMethod" is-config="true" duration-ms="30239" started-at="2017-09-12T17:21:12Z" finished-at="2017-09-12T17:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testFilterSortingTwentyMins()[pri:4, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="testFilterSortingTwentyMins" duration-ms="33079" started-at="2017-09-12T17:21:43Z" finished-at="2017-09-12T17:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterSortingTwentyMins -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:22:16Z" finished-at="2017-09-12T17:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="BeforeTestMethod" is-config="true" duration-ms="30181" started-at="2017-09-12T17:22:16Z" finished-at="2017-09-12T17:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testFilterSortingThirtyMins()[pri:5, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="testFilterSortingThirtyMins" duration-ms="34614" started-at="2017-09-12T17:22:46Z" finished-at="2017-09-12T17:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterSortingThirtyMins -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:23:21Z" finished-at="2017-09-12T17:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="BeforeTestMethod" is-config="true" duration-ms="30085" started-at="2017-09-12T17:23:21Z" finished-at="2017-09-12T17:23:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testFilterSortingThirtyPlusMins()[pri:6, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="testFilterSortingThirtyPlusMins" duration-ms="35399" started-at="2017-09-12T17:23:51Z" finished-at="2017-09-12T17:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterSortingThirtyPlusMins -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:24:26Z" finished-at="2017-09-12T17:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="BeforeTestMethod" is-config="true" duration-ms="30624" started-at="2017-09-12T17:24:26Z" finished-at="2017-09-12T17:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testFilterSortingMaleOnly()[pri:7, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="testFilterSortingMaleOnly" duration-ms="36746" started-at="2017-09-12T17:24:57Z" finished-at="2017-09-12T17:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterSortingMaleOnly -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="BeforeTestMethod" is-config="true" duration-ms="30483" started-at="2017-09-12T17:25:33Z" finished-at="2017-09-12T17:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:25:33Z" finished-at="2017-09-12T17:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="testFilterSortingFamaleOnly()[pri:8, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="testFilterSortingFamaleOnly" duration-ms="35979" started-at="2017-09-12T17:26:04Z" finished-at="2017-09-12T17:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterSortingFamaleOnly -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="BeforeTestMethod" is-config="true" duration-ms="30727" started-at="2017-09-12T17:26:40Z" finished-at="2017-09-12T17:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:26:40Z" finished-at="2017-09-12T17:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="testFilterSortingWithBackMusic()[pri:9, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="testFilterSortingWithBackMusic" duration-ms="49904" started-at="2017-09-12T17:27:11Z" finished-at="2017-09-12T17:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterSortingWithBackMusic -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:28:01Z" finished-at="2017-09-12T17:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method status="PASS" signature="BeforeTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="BeforeTestMethod" is-config="true" duration-ms="31059" started-at="2017-09-12T17:28:01Z" finished-at="2017-09-12T17:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method status="PASS" signature="testFilterSortingWithoutBackMusic()[pri:10, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="testFilterSortingWithoutBackMusic" duration-ms="38319" started-at="2017-09-12T17:28:32Z" finished-at="2017-09-12T17:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterSortingWithoutBackMusic -->
+        <test-method status="PASS" signature="restartApp()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="restartApp" is-config="true" duration-ms="1" started-at="2017-09-12T17:29:10Z" finished-at="2017-09-12T17:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartApp -->
+        <test-method status="PASS" signature="AfterTestMethod()[pri:0, instance:Tests.TestLibrarySearchFilterSortPage@eec5a4a]" name="AfterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-12T17:29:10Z" finished-at="2017-09-12T17:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+      </class> <!-- Tests.TestLibrarySearchFilterSortPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
